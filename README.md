@@ -4,11 +4,11 @@ The objective of this project is to create the required AWS infrastructure using
 
 
 ## AWS Cludformation create Stack and Update Stack
-###### Create Stack
-*./create.sh network-stack network.yml network-params.json 
-*./create.sh server-stack server.yml server-params.json 
+##### Create Stack
+* ./create.sh network-stack network.yml network-params.json 
+* ./create.sh server-stack server.yml server-params.json 
 
-###### Update Stack
-*./update.sh network-stack network.yml network-params.json 
-*./update.sh server-stack server.yml server-params.json 
+##### Update Stack
+* ./update.sh network-stack network.yml network-params.json 
+* ./update.sh server-stack server.yml server-params.json 
 
